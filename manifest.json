@@ -3,6 +3,6 @@
   "short_name": "MiApp",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f4f7f6",
+  "background_color": "#b688ff",
   "theme_color": "#2e7d32"
 }
